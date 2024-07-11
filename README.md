@@ -44,29 +44,29 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BloodSweetAn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DeyvidGC&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BloodSweetAn&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeyvidGC&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BloodSweetAn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidGC&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BloodSweetAn&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DeyvidGC&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophy" />
 </p>
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=BloodSweetAn&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=DeyvidGC&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
 </p>
 
 ---
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=BloodSweetAn&icon=10&color=6" alt="Visit Count" />
+    <img src="https://visitcount.itsvg.in/api?id=DeyvidGC&icon=10&color=6" alt="Visit Count" />
   </a>
 </p>
 
